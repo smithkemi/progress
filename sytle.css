@@ -115,7 +115,7 @@ body {
   background-color: var(--line-border-fill);
   color: #000;
   border-radius: 10px;
-  position: relative;
+  position: absolute;
   opacity: 1;
 }
 h1 {
