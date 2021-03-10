@@ -110,6 +110,7 @@ body {
   height: 0;
 }
 .quote.active1 {
+  top: 15%;
   width: 350px;
   height: auto;
   background-color: var(--line-border-fill);
