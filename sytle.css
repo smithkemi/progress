@@ -27,7 +27,7 @@ body {
 
 .container {
   text-align: center;
-  margin-bottom: 50px;
+/*   margin-bottom: 300px; */
 }
 .progress-container {
   display: flex;
@@ -115,7 +115,7 @@ body {
   background-color: var(--line-border-fill);
   color: #000;
   border-radius: 10px;
-  position: absolute;
+  position: relative;
   opacity: 1;
 }
 h1 {
